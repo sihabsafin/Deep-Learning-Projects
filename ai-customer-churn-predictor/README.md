@@ -4,7 +4,7 @@ A production-ready **Artificial Neural Network (ANN)** application that predicts
 Built with **TensorFlow** and deployed using **Streamlit**, this project focuses on **real-world inference, explainability, and business decision-making**, not just model training.
 
 🔗 **Live Demo:** https://ai-customer-churn-predictors.streamlit.app/) 
-🔗 **Author:** Safin  
+
 🔗 **LinkedIn:** https://www.linkedin.com/in/sihabsafin/
 
 ---
