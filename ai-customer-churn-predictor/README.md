@@ -60,6 +60,7 @@ The model is loaded from a pre-trained `.h5` file and used strictly for **infere
 ---
 
 ## 📂 Project Structure
+```bash
 ai-customer-churn-predictor/
 │
 ├── app.py # Streamlit application
