@@ -3,14 +3,13 @@
 A production-ready **Artificial Neural Network (ANN)** application that predicts customer churn in the banking sector.  
 Built with **TensorFlow** and deployed using **Streamlit**, this project focuses on **real-world inference, explainability, and business decision-making**, not just model training.
 
-🔗 **Live Demo:** <YOUR_STREAMLIT_APP_URL>  
+🔗 **Live Demo:** <[YOUR_STREAMLIT_APP_URL](https://ai-customer-churn-predictors.streamlit.app/)>  
 🔗 **Author:** Safin  
-🔗 **Portfolio:** <YOUR_WEBSITE_LINK>  
-🔗 **LinkedIn:** <YOUR_LINKEDIN_PROFILE>
+🔗 **LinkedIn:** <[LINKEDIN_PROFILE](https://www.linkedin.com/in/sihabsafin/)>
 
 ---
 
-## 🚀 Why This Project Matters
+##  Why This Project Matters
 
 Customer churn directly impacts revenue in the banking and fintech industry.  
 This application transforms raw customer data into **actionable business insights** by combining:
@@ -61,4 +60,25 @@ The model is loaded from a pre-trained `.h5` file and used strictly for **infere
 ---
 
 ## 📂 Project Structure
+ai-customer-churn-predictor/
+│
+├── app.py # Streamlit application
+├── model.h5 # Trained ANN model
+├── scaler.pkl # Feature scaler
+├── label_encoder_gender.pkl # Gender encoder
+├── onehot_encoder_geo.pkl # Geography encoder
+│
+├── requirements.txt
+├── runtime.txt
+├── README.md
+
+
+---
+
+## ▶️ How to Run Locally
+
+```bash
+pip install -r requirements.txt
+streamlit run app.py
+
 
