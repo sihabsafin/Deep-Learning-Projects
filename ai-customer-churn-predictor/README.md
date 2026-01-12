@@ -3,9 +3,9 @@
 A production-ready **Artificial Neural Network (ANN)** application that predicts customer churn in the banking sector.  
 Built with **TensorFlow** and deployed using **Streamlit**, this project focuses on **real-world inference, explainability, and business decision-making**, not just model training.
 
-🔗 **Live Demo:** <[STREAMLIT_APP_URL](https://ai-customer-churn-predictors.streamlit.app/)>  
+🔗 **Live Demo:** https://ai-customer-churn-predictors.streamlit.app/) 
 🔗 **Author:** Safin  
-🔗 **LinkedIn:** <[Sihabul Islam Safin](https://www.linkedin.com/in/sihabsafin/)>
+🔗 **LinkedIn:** https://www.linkedin.com/in/sihabsafin/
 
 ---
 
